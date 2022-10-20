@@ -1,0 +1,11 @@
+#calculator{
+    background-color: cornflowerblue;
+    margin: 10px;
+    width: 109px;
+    padding: 5px;
+}
+
+#display{
+    background-color: white;
+    text-align: end;
+    margin-bottom: 10px;}
